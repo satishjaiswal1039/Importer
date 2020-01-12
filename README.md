@@ -29,8 +29,11 @@ And I have made the sql query for the database part is in "database/Query.sql".
 
 -To run the Import.exe using command prompt with the following argument:
 
-example- 1: Import.exe softwareadvice feed-products/softwareadvice.json
-         2: Import.exe capterra feed-products/capterra.yaml
+example- :
+
+1: Import.exe softwareadvice feed-products/softwareadvice.json
+
+2: Import.exe capterra feed-products/capterra.yaml
 
 
          

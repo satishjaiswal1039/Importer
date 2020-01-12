@@ -36,6 +36,9 @@ example- :
 2: Import.exe capterra feed-products/capterra.yaml
 
 
+- What would you have done differently if you had had more time
+
+I do with proper implementation and with unit tests. 
          
          
          

@@ -1,4 +1,6 @@
-## Software For SAAS Design Pattern
+## Software For SaaS Products Import Design Pattern
+
+We update our inventory of SaaS products from several sources.  Each source provides its content to us in a different format. 
 
 ## --------------------------------------Information-------------------------------
 The solution of the coding part is in folder "SaaS_Products_Import"
